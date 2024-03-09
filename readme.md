@@ -34,11 +34,3 @@ Kunjungi link tersebut untuk melihat dashboard dan melakukan interaksi dengan da
 
 Kontribusi
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini, buat perubahan, dan kirimkan pull request. Kami sangat menghargai setiap kontribusi yang Anda berikan.
-
-Lisensi
-Proyek ini dilisensikan di bawah MIT License.
-
-
-Pastikan Anda mengganti `username/repo-name` dengan username GitHub dan nama repositori yang sesuai. Juga, jika Anda memiliki file lisensi, pastikan link `LICENSE` mengarah ke file tersebut di repositori GitHub Anda.
-
-Semoga berhasil dengan proyek Anda!
