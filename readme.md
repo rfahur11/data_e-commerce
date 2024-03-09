@@ -28,7 +28,7 @@ Jalankan aplikasi Streamlit:
 streamlit run app.py
 
 Deploy
-Aplikasi ini telah di-deploy dan dapat diakses melalui link berikut: Data E-Commerce Dashboard
+Aplikasi ini telah di-deploy dan dapat diakses melalui link berikut: https://data-ecommerce.streamlit.app/
 
 Kunjungi link tersebut untuk melihat dashboard dan melakukan interaksi dengan data analisis e-commerce.
 
